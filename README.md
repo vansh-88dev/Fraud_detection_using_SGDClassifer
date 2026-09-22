@@ -2,7 +2,7 @@
 
 A machine learning project that detects fraudulent credit card transactions using a calibrated SGDClassifier.
 
-🔗 **Live Demo:** [your-app-url.streamlit.app](https://your-app-url.streamlit.app)
+🔗 **Live Demo:** [your-app-url.streamlit.app](https://sgd-fraud-classifier.streamlit.app/)
 
 ---
 
