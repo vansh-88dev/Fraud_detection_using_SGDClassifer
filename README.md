@@ -51,20 +51,3 @@ Random guessing gives AUPRC = **0.0017** (the fraud rate). Our model achieves **
 
 Accuracy is misleading here — a "never fraud" model scores 99.83% accuracy but is useless.
 
-## 🛠️ Run Locally
-
-```bash
-# Clone
-git clone https://github.com/YOUR_USERNAME/fraud-detection.git
-cd fraud-detection
-
-# Setup
-python -m venv venv
-venv\Scripts\activate          # Windows
-# source venv/bin/activate     # Mac/Linux
-
-# Install
-pip install -r requirements.txt
-
-# Run app
-streamlit run app.py
